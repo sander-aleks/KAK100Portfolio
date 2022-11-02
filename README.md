@@ -1,4 +1,4 @@
-# Kuressaare Ametikooli 100 Portfolio
+# Kuressaare Regional Training Centre 100 Portfolio
 
 
 ## Links
@@ -15,14 +15,14 @@
 * Henry
 
 # Project goal
-Introducing Kuressaare Ametikool.
+To introduce our school, Kuressaare Regional Training Centre.
 
 ## Communication was in Slack
 ## For project we used: JavaScript, HTML, CSS
 
 ## Day 1
 Introduced ourselves to each other.
-Started to put together the plan.
+Started to put the plan together.
 TAK-21 showed us TA-22 and TAK-22 how github issues and labels work...
 Started designing in Figma and started to write the code.
 
@@ -54,7 +54,7 @@ Started designing in Figma and started to write the code.
 
 
 ## Lingid
-
+[Figma](https://www.figma.com/file/A7QbEvQccutgwBl1vWuL6v/KAK100PORTFOOLIO-team-library?node-id=0%3A1)
 
 ## Liikmed
 
