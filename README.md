@@ -1,5 +1,5 @@
 # KAK100Portfolio
 
-*javascript- Sander-Aleks Mander
-*Figma-
-*Html, css-
+* javascript- Sander-Aleks Mander
+* Figma-
+* Html, css-
