@@ -1,4 +1,4 @@
-# Kuressaare Ametikooli 100 Portfoolio
+# Kuressaare Ametikooli 100 Portfolio
 
 
 ## Links
@@ -15,7 +15,7 @@
 * Henry
 
 # Project goal
-Introducing Kuressaare Ametikool
+Introducing Kuressaare Ametikool.
 
 ## Communication was in Slack
 ## For project we used: JavaScript, HTML, CSS
@@ -23,7 +23,7 @@ Introducing Kuressaare Ametikool
 ## Day 1
 Introduced ourselves to each other.
 Started to put together the plan.
-TAK-21 showed us TA-22 and TAK-22 how github issues, labels work...
+TAK-21 showed us TA-22 and TAK-22 how github issues and labels work...
 Started designing in Figma and started to write the code.
 
 ## Day 2
