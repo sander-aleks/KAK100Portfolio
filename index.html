@@ -4,12 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <title>Document</title>
 </head>
 <body>
     
+<h1>gogo map gogo work</h1>
+
+<div class="GoogleMap" id="googleMap"></div>
+
+<script>
+  function myMap() {
+    const myLatLng = { lat: 58.25632, lng: 22.48234 };
+    var mapProp= {
+        center:new google.maps.LatLng(myLatLng),
+        zoom:15,
+    };
+    var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
     
-    <script src="app.js"></script>
+     new google.maps.Marker({
+        position: myLatLng,
+        map
+     })
+    }
+    </script>
+    
+    <script src="https://maps.googleapis.com/maps/api/js?key=&callback=myMap"></script>
+
 </body>
 </html>
