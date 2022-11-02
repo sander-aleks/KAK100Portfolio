@@ -67,7 +67,7 @@ Started designing in Figma and started to write the code.
 * Henry
 
 # Projekti eesmärk
-Tutvustada Kuressaare Ametikooli.
+Tutvustada meie kooli, Kuressaare Ametikooli.
 
 ## Suhtlus toimus Slackis.
 ## Projektiks me kasutasime: JavaScript, HTML, CSS
