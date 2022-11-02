@@ -1,5 +1,3 @@
 # KAK100Portfolio
 
-* javascript- Sander-Aleks Mander
-* Figma-
-* Html, css-
+Portfoolio kool 100 aasta
