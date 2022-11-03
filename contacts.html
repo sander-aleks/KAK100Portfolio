@@ -14,25 +14,32 @@
 </head>
 
 <body>
-  <header>
-    <div class="container">
-      <div class="logo"><a href="/"><img
-            src="/images/kuressaare-ametikool-100-logo-02-02-04.png"
-            alt="logo"></a>
-      </div>
-      <div class="nav">
-        <ul>
-          <li class="nav1"><a href="/">Avaleht</a></li>
-          <li class="nav2"><a href="gallery.html">Galerii</a></li>
-          <li class="nav1"><a href="facts.html">Faktid</a></li>
-          <li class="nav2"><a href="contacts.html">Kontakt</a></li>
-        </ul>
-      </div>
-    </div>
-  </header>
+  <body>
+    <header>
+        <div class="continer">
+            <div class="logo"><a href="index.html"><img
+                        src="images/kuressaare-ametikool-100-logo-02-02-04.png"
+                        alt="logo"></a>
+            </div>
+            <nav class="navbar">
+                <ul class="nav-links">
+                    <input type="checkbox" id="checkbox_toggle">
+                    <label for="checkbox_toggle" class="burger">☰</label>
+                    <div class="nav">
+                        <ul>
+                            <li class="nav1"><a href="index.html">Avaleht</a></li>
+                            <li class="nav2"><a href="gallery.html">Galerii</a></li>
+                            <li class="nav1"><a href="facts.html">Faktid</a></li>
+                            <li class="nav2"><a href="contacts.html">Kontakt</a></li>
+                        </ul>
+                    </div>
+                </ul>
+            </nav>
+        </div>
+    </header>
 
   <section class="content">
-    <div class="container">
+    <div class="continer">
       <h1>Kontaktid</h1>
       <div class="contacts">
         <div class="contact">
@@ -115,22 +122,6 @@
           <div class="contact-data">
             <ul>
               <li><span class="name">
-                  <h3>Karl Gregor Rauniste</h3>
-              </li><i class="fa fa-code" aria-hidden="true"></i> kutseõpetaja</li>
-              <li><i class="fa fa-phone" aria-hidden="true"></i> 452 4651
-              </li>
-              <li>
-                <i class="fa fa-envelope-o" aria-hidden="true"></i> <a
-                  href="mailto:karl_gregor.rauniste@ametikool.ee">karl_gregor.rauniste@ametikool.ee</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="contact">
-          <div class="contact-image"><i class="fa fa-user-circle-o fa-4" aria-hidden="true"></i></div>
-          <div class="contact-data">
-            <ul>
-              <li><span class="name">
                   <h3>Toomas Kivi</h3>
               </li><i class="fa fa-code" aria-hidden="true"></i> kutseõpetaja</li>
               <li><i class="fa fa-phone" aria-hidden="true"></i> 452 4649
@@ -182,6 +173,24 @@
           <div class="contact-data">
             <ul>
               <li><span class="name">
+                  <h3>Erik Laes</h3>
+              </li><i class="fa fa-code" aria-hidden="true"></i> IT-spetsialist</li>
+              <li><i class="fa fa-phone" aria-hidden="true"></i> 452 4668
+              </li>
+              <li><i class="fa fa-mobile" aria-hidden="true"></i> 5693 4580
+              </li>
+              <li>
+                <i class="fa fa-envelope-o" aria-hidden="true"></i> <a
+                  href="mailto:erik.laes@ametikool.ee">erik.laes@ametikool.ee</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="contact">
+          <div class="contact-image"><i class="fa fa-user-circle-o fa-4" aria-hidden="true"></i></div>
+          <div class="contact-data">
+            <ul>
+              <li><span class="name">
                   <h3>Martti Tomson</h3>
               </li><i class="fa fa-code" aria-hidden="true"></i> CNC-töötlemiskeskuse operaator</li>
               <li><i class="fa fa-phone" aria-hidden="true"></i> 452 4660
@@ -198,46 +207,27 @@
           <div class="contact-data">
             <ul>
               <li><span class="name">
-                  <h3>Erik Laes</h3>
-              </li><i class="fa fa-code" aria-hidden="true"></i> IT-spetsialist</li>
-              <li><i class="fa fa-phone" aria-hidden="true"></i> 452 4668
-              </li>
-              <li><i class="fa fa-mobile" aria-hidden="true"></i> 5693 4580
+                  <h3>Karl Gregor Rauniste</h3>
+              </li><i class="fa fa-code" aria-hidden="true"></i> kutseõpetaja</li>
+              <li><i class="fa fa-phone" aria-hidden="true"></i> 452 4651
               </li>
               <li>
                 <i class="fa fa-envelope-o" aria-hidden="true"></i> <a
-                  href="mailto:erik.laes@ametikool.ee">erik.laes@ametikool.ee</a>
+                  href="mailto:karl_gregor.rauniste@ametikool.ee">karl_gregor.rauniste@ametikool.ee</a>
               </li>
             </ul>
           </div>
         </div>
       </div>
-      <div class="GoogleMap" id="googleMap"></div>
     </div>
   </section>
 
   <footer>
-    <div class="container">Kuressaare Ametikool | Kohtu 22, Kuressaare 93812 | 452 4600 | <a
+    <div class="continer">Kuressaare Ametikool | Kohtu 22, Kuressaare 93812 | 452 4600 | <a
         href="mailto:info@ametikool.ee">info@ametikool.ee</a></div>
   </footer>
 
-  <script>
-    function myMap() {
-      const myLatLng = { lat: 58.25632, lng: 22.48234 };
-      var mapProp= {
-          center:new google.maps.LatLng(myLatLng),
-          zoom:15,
-      };
-      var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-      
-       new google.maps.Marker({
-          position: myLatLng,
-          map
-       })
-      }
-      </script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=&callback=myMap"></script>
-      <script src="app.js"></script>
+  <script src="app.js"></script>
 </body>
 
 </html>
