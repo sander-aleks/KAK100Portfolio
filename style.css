@@ -159,13 +159,16 @@ p {
     margin: 1.3rem 0;
 }
 
-.content ul {    ;
+.content ul {list-style: none;
     margin: 0.5rem 0;
     padding: 0 0.5rem;
 }
 
 .content li {
     padding: 0.5rem;
+}
+.content li .fa {
+    color: #284978;
 }
 
 
