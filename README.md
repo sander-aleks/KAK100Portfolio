@@ -7,8 +7,8 @@
 
 [Figma](https://www.figma.com/file/A7QbEvQccutgwBl1vWuL6v/KAK100PORTFOOLIO-team-library?node-id=0%3A1)
 
-
-
+![image](https://user-images.githubusercontent.com/113008169/199742963-ec59a05b-598d-45b8-9ae1-13ca2331ee40.png)
+![image](https://user-images.githubusercontent.com/113008169/199743004-c318f370-c8ff-4e54-8f82-50ecdd6da6b5.png)
 
 ## Members
 
@@ -38,16 +38,6 @@ Started designing in Figma and started to write the code.
 ## Day 2
 
 Improving our code and Figma design.
-
------------------------------------------------------------------
-Päeva              tegemised
-:--------------------------------------------------:
-![image](https://user-images.githubusercontent.com/113008169/199742963-ec59a05b-598d-45b8-9ae1-13ca2331ee40.png) ![image](https://user-images.githubusercontent.com/113008169/199743004-c318f370-c8ff-4e54-8f82-50ecdd6da6b5.png)
-
-
-
--------------------------------------------
-
 
 ## Day 3
 
