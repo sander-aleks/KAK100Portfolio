@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kuressaare Ametikool | Sinu sõber elukestvas õppes!</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header>
+      <div class="container">
+        <div class="logo">
+          <a href="/"
+            ><img
+              src="/images/kuressaare-ametikool-100-logo-02-02-04.png"
+              alt="logo"
+          /></a>
+        </div>
+        <div class="nav">
+          <ul>
+            <li class="nav1"><a href="/">Avaleht</a></li>
+            <li class="nav2"><a href="gallery.html">Galerii</a></li>
+            <li class="nav1"><a href="facts.html">Faktid</a></li>
+            <li class="nav2"><a href="contacts.html">Kontakt</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
+
+    <section class="content">
+      <div class="container">
+        <div class="container--slides">
+          <div class="slides fade">
+            <div class="fade--numbers">1 / 8</div>
+            <img src="/images/pic1.jpg" width="100%" />
+          </div>
+          <div class="slides fade">
+            <div class="fade--numbers">2 / 8</div>
+            <img src="/images/pic2.jpg" width="100%" />
+          </div>
+          <div class="slides fade">
+            <div class="fade--numbers">3 / 8</div>
+            <img src="/images/pic3.jpg" width="100%" />
+          </div>
+          <div class="slides fade">
+            <div class="fade--numbers">4 / 8</div>
+            <img src="/images/pic4.jpg" width="100%" />
+          </div>
+          <div class="slides fade">
+            <div class="fade--numbers">5 / 8</div>
+            <img src="/images/pic5.jpeg" width="100%" />
+          </div>
+          <div class="slides fade">
+            <div class="fade--numbers">6 / 8</div>
+            <img src="/images/pic6.jpg" width="100%" />
+          </div>
+          <div class="slides fade">
+            <div class="fade--numbers">7 / 8</div>
+            <img src="/images/pic7.jpg" width="100%" />
+          </div>
+          <div class="slides fade">
+            <div class="fade--numbers">8 / 8</div>
+            <img src="/images/pic8.jpg" width="100%" />
+          </div>
+          <div class="slides--selector">
+            <span
+              class="slides--dot"
+              onclick="currentSlide(1)"
+              title="Pilt 1"
+            ></span>
+            <span
+              class="slides--dot"
+              onclick="currentSlide(2)"
+              title="Pilt 2"
+            ></span>
+            <span
+              class="slides--dot"
+              onclick="currentSlide(3)"
+              title="Pilt 3"
+            ></span>
+            <span
+              class="slides--dot"
+              onclick="currentSlide(4)"
+              title="Pilt 4"
+            ></span>
+            <span
+              class="slides--dot"
+              onclick="currentSlide(5)"
+              title="Pilt 5"
+            ></span>
+            <span
+              class="slides--dot"
+              onclick="currentSlide(6)"
+              title="Pilt 6"
+            ></span>
+            <span
+              class="slides--dot"
+              onclick="currentSlide(7)"
+              title="Pilt 7"
+            ></span>
+            <span
+              class="slides--dot"
+              onclick="currentSlide(8)"
+              title="Pilt 8"
+            ></span>
+          </div>
+          <div class="slides--arrows">
+            <a class="slides--prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="slides--next" onclick="plusSlides(1)">&#10095;</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        Kuressaare Ametikool | Kohtu 22, Kuressaare 93812 | 452 4600 |
+        <a href="mailto:info@ametikool.ee">info@ametikool.ee</a>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
