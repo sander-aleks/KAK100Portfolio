@@ -9,8 +9,7 @@ html {
 }
 
 body {
-    background-image: url(https://www.tuur.ee/wp-content/uploads/2017/08/kuressaare-thumb.jpg);
-    background-repeat: no-repeat;
+    background: url(bg.jpg) no-repeat center center fixed;    
     background-size: cover;
     gap: 2rem;
     background-color: #eee;
