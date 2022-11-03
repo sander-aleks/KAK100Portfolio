@@ -28,7 +28,7 @@ TAK-21 showed us TA-22 and TAK-22 how github issues and labels work...
 Started designing in Figma and started to write the code.
 
 ## Day 2
-
+Improving our code.
 
 ## Day 3
 
