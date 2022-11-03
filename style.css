@@ -25,6 +25,7 @@ header .container {
 }
 
 .container {
+    display: flex;
     max-width: 1280px;
     margin: auto;
 }
@@ -175,6 +176,10 @@ p {
 
 .container--contacts {
     font-size: 18px;
+}
+
+.content--photos {
+    display: flex;
 }
 
 @media screen and (max-width: 420px) {
