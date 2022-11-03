@@ -250,12 +250,12 @@ p {
     transition: background-color 0.6s ease;
 }
 
-.active .slides--dot:hover {
-    background-color: #773f03;
+.slides--dot:hover {
+    background-color: #af5b00;
 }
 
-.active .slides--dot:focus {
-    background-color: #284978;
+.active .slides--dot:hover {
+    background-color: black;
 }
 
 .fade {
