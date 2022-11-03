@@ -159,7 +159,8 @@ p {
     margin: 1.3rem 0;
 }
 
-.content ul {list-style: none;
+.content ul {
+    list-style: none;
     margin: 0.5rem 0;
     padding: 0 0.5rem;
 }
@@ -167,10 +168,10 @@ p {
 .content li {
     padding: 0.5rem;
 }
+
 .content li .fa {
     color: #284978;
 }
-
 
 @media screen and (max-width: 420px) {
     .logo img {
