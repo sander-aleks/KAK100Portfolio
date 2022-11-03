@@ -22,13 +22,13 @@ Tutvustada meie kooli, Kuressaare Ametikooli.
 ## Projektiks me kasutasime: JavaScript, HTML, CSS
 
 ## Päev 1
-Introduced ourselves to each other.
-Started to put together the plan.
-TAK-21 showed us TA-22 and TAK-22 how github issues and labels work...
-Started designing in Figma and started to write the code.
+Tutvusime üksteisega.
+Panime plaani kokku.
+TAK-21 näitas meile TA-22 and TAK-22 kuidas githubi issued and labelid töötavad...
+Alustasime disanimist Figmas ja kodeerimist.
 
 ## Päev 2
-
+Täiendasime koodi.
 
 ## Päev 3
 
