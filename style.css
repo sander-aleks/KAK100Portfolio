@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background: url(bg.jpg) no-repeat center center fixed;    
+    background: url(bg.jpg) no-repeat center center fixed;
     background-size: cover;
     gap: 2rem;
     background-color: #eee;
@@ -267,6 +267,41 @@ p {
 @keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
+}
+
+.contacts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 48%;    
+    background-color: rgba(255, 255, 255, 0.9);
+    margin: 1%;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0rem 0.5rem 0.5rem rgba(0, 0, 0, 0.3);
+
+}
+
+.contact span {
+    font-weight: 500;
+}
+
+.contact-image {
+    flex: 33%;
+    justify-content: space-between;
+    color: #284978;
+}
+.contact-data {
+    flex: 66%;
+}
+
+.fa-4 {
+    font-size: 8rem!important;
 }
 
 @media screen and (max-width: 420px) {
