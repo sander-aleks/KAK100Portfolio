@@ -182,7 +182,6 @@ p {
     max-width: 1000px;
     position: relative;
     margin: auto;
-    border-radius: ;
 }
 
 .slides {
@@ -205,10 +204,12 @@ p {
 }
 
 .slides--prev {
+    cursor: pointer;
     color: #EF7C00;
 }
 
 .slides--next {
+    cursor: pointer;
     right: 0;
     border-radius: 3px 0 0 3px;
     color: #284978;
