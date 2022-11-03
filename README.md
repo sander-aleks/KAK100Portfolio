@@ -1,5 +1,5 @@
 # Kuressaare Regional Training Centre 100 Portfolio
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/sander-aleks/KAK100Portfolio/blob/master/README.md)
 
 ## Links
 [Figma](https://www.figma.com/file/A7QbEvQccutgwBl1vWuL6v/KAK100PORTFOOLIO-team-library?node-id=0%3A1)
