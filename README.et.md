@@ -7,9 +7,9 @@
 ![image](https://user-images.githubusercontent.com/113008169/199742739-d11faf91-8a65-4550-98a0-ce5db4262c5d.png)
 ![image](https://user-images.githubusercontent.com/113008169/199742770-62d86f4c-0ba0-4651-924f-0a527a05e857.png)
 
-
+--------------
 ## Liikmed
-
+--------------
 * Jan
 * Anni
 * Raimond
