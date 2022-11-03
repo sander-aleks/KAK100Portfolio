@@ -193,7 +193,7 @@ p {
 
 }
 
-.contact li{
+.contact li {
   padding: 0.25rem;
 }
 
@@ -303,8 +303,13 @@ p {
 }
 
 @keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+  from {
+    opacity: .4
+  }
+
+  to {
+    opacity: 1
+  }
 }
 
 @media screen and (max-width: 420px) {
@@ -326,5 +331,61 @@ p {
   }
 }
 
-@media screen and (max-width: 800px) {
+.navbar {
+  padding: 20px;
+}
+
+.nav-links a {
+  color: #284977;
+}
+
+.nav-links a:hover {
+  color: #EF7C00;
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+.burger {
+  display: none;
+}
+
+@media screen and (max-width: 1020px) {
+  .nav {
+    display: none;
+    position: absolute;
+    margin-top: 20px;
+    right: 0;
+    left: 0;
+    text-align: center;
+    padding: 1rem 0;
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+
+  input[type=checkbox]:checked~.nav {
+    display: block;
+  }
+
+  .burger {
+    display: block;
+    width: auto;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+
+  .nav ul li {
+    display: block;
+  }
+
+  .nav1,
+  .nav2 {
+    background: none;
+    color: #284978;
+    mix-blend-mode: normal;
+    border: none;
+    box-shadow: none;
+    border-radius: none;
+    padding: 0.5rem 1rem;
+  }
 }
