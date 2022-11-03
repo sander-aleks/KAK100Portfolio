@@ -278,7 +278,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex: 48%;    
+    flex: 48%;
     background-color: rgba(255, 255, 255, 0.9);
     margin: 1%;
     padding: 0.5rem;
@@ -298,12 +298,13 @@ p {
     align-items: center;
     justify-content: center;
 }
+
 .contact-data {
     flex: 66%;
 }
 
 .fa-4 {
-    font-size: 8rem!important;
+    font-size: 8rem !important;
 }
 
 @media screen and (max-width: 420px) {
