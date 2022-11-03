@@ -4,9 +4,8 @@
 
 ## Lingid
 [Figma](https://www.figma.com/file/A7QbEvQccutgwBl1vWuL6v/KAK100PORTFOOLIO-team-library?node-id=0%3A1)
-
-![image](https://user-images.githubusercontent.com/113008169/199741720-18101866-e725-4185-803a-bc15edb7983b.png)
-![image](https://user-images.githubusercontent.com/113008169/199741841-7f30b2b9-2d84-41ab-ad15-c534ae3b743f.png)
+![image](https://user-images.githubusercontent.com/113008169/199742739-d11faf91-8a65-4550-98a0-ce5db4262c5d.png)
+![image](https://user-images.githubusercontent.com/113008169/199742770-62d86f4c-0ba0-4651-924f-0a527a05e857.png)
 
 
 ## Liikmed
