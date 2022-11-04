@@ -5,7 +5,7 @@
 ## Lingid
 [Figma](https://www.figma.com/file/A7QbEvQccutgwBl1vWuL6v/KAK100PORTFOOLIO-team-library?node-id=0%3A1)
 
-[Maie sait](https://tak21aavik.itmajakas.ee/KAK100/contacts.html)
+[Meie sait](https://tak21aavik.itmajakas.ee/KAK100/contacts.html)
 
 ## Liikmed
 
