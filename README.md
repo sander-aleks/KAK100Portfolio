@@ -67,22 +67,22 @@ Finishing the README file.
 
 ## Questions 
 **Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
-- Aavik:	 Järgmises projektis olen parem tiimijuht ja tiimikaaslane, hoian rohkem silma peal asjadel, mis on vaja ära teha
+- Aavik:	 In the next project, I'll try to be a better leader and team member. I'll keep a closer eye on things that we still need to do.
 
-- Jan: Teen järgmine kord kõike paremini. :-)
+- Jan: I'll try to do everything a little better when the next project comes along. :-)
 
-- Raimond: Teen järgmine kord kõike paremini. :-)	 
+- Raimond: I'll try to do everything a little better when the next project comes along. :-)
 
-- Sander-Aleks:	 Teen järgmine kord kõike paremini. :-)	
+- Sander-Aleks:	 I'll try to do everything a little better when the next project comes along. :-)
 
-- Kevin Kangur:	 Teen järgmine kord kõike paremini. :-)	
+- Kevin Kangur:	 I'll try to do everything a little better when the next project comes along. :-)
 
 - Henry: 	In the project I had my first real group git experience and, I'll make sure to apply all of what I've learnt in future projects as well
 
-- Kevin Zukker:	Teen järgmine kord kõike paremini. :-)	
+- Kevin Zukker:	I'll try to do everything a little better when the next project comes along. :-)
 
 **Üks pehme oskus, mida õppisin ja endas arendasin**
-- Aavik: Õppisin tiimi paremini juhtima ja teisi abistama/ise abi küsima
+- Aavik: I improved my team leading skills and figured that it's okay to ask for help when it's needed
 
 - Jan: During this project I improved my teamwork skills.
 
