@@ -9,37 +9,35 @@
 
 [Our site](https://tak21aavik.itmajakas.ee/KAK100/contacts.html)
 
-## Members
+## Our team members :-)
 
-- Jan
-- Aavik
-- Raimond
-- Sander-Aleks
-- Kevin Kangur
-- Kevin Zukker
-- Henry
+- Jan ★ _TA-22_
+- Aavik ☆ _TAK-21_
+- Raimond ★ _TA-22_
+- Sander-Aleks ☆ _TAK-21_
+- Kevin Kangur ★ _TAK-22_
+- Kevin Zukker ☆ _TAK-21_
+- Henry ★ _TAK-22_
 
 # Project goal
-
 To introduce our school, Kuressaare Regional Training Centre.
 
-# Project tools
-
+## List of the tools we used:
+### Project tools
 VsCode, Zone, Figma, Ubuntu
 
-# Communication tools
-
+### Communication tools
 Slack
 
-## For project we used: JavaScript, HTML, CSS
+### For project we used: 
+JavaScript, HTML, CSS
 
 ## Day 1
-
 Introduced ourselves to each other.
-Started to put the plan together.
 TAK-21 showed us TA-22 and TAK-22 how github issues and labels work...
 Started designing in Figma and started to write the code.
 
+Started to put the plan together
 -----------------------------------------------------------------
 Päeva              tegemised
 :--------------------------------------------------:
@@ -50,7 +48,7 @@ Päeva              tegemised
 -------------------------------------------
 
 ## Day 2
-
+Improving our code and Figma design
 -----------------------------------------------------------------
 Päeva              tegemised
 :--------------------------------------------------:
@@ -60,7 +58,6 @@ Päeva              tegemised
 
 -------------------------------------------
 
-Improving our code and Figma design.
 
 ## Day 3
 
