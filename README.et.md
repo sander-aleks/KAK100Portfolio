@@ -7,28 +7,29 @@
 
 [Meie sait](https://tak21aavik.itmajakas.ee/KAK100/contacts.html)
 
-## Liikmed
-
-- Jan
-- Aavik
-- Raimond
-- Sander-Aleks
-- Kevin Kangur
-- Kevin Zukker
-- Henry
+## Meie vahvad tiimiliikmed :-)
+- Jan ★ _TA-22_
+- Aavik ☆ _TAK-21_
+- Raimond ★ _TA-22_
+- Sander-Aleks ☆ _TAK-21_
+- Kevin Kangur ★ _TAK-22_
+- Kevin Zukker ☆ _TAK-21_
+- Henry ★ _TAK-22_
 
 # Projekti eesmärk
 Tutvustada meie kooli, Kuressaare Ametikooli.
 
-# Projekti tööriistad
-
+## Töövahendite loetelu:
+### Projekti tööriistad
 VsCode, Zone, Figma, Ubuntu
 
-# Suhtlus 
+
+### Suhtlus 
 
 - Slack
 
-## Projektiks me kasutasime: JavaScript, HTML, CSS
+### Projektiks me kasutasime:
+-  JavaScript, HTML, CSS
 
 ## Päev 1
 Tutvusime üksteisega.
@@ -59,10 +60,12 @@ Päeva              tegemised
 -------------------------------------------
 
 ## Päev 3
-Laadisine saidi failid üles Zone'i, parandasime vigu ja tegime viimaseid viimistlusi.
+Laadisime saidi failid üles Zone'i, parandasime vigu ja tegime viimaseid viimistlusi.
 Lõpetasime README faile.
 
-# Tiimi liikmete kommentaarid
+
+
+# Tiimi liikmete muljed ja kommentaarid
 
 ## Küsimused 
 **Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
