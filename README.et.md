@@ -79,36 +79,36 @@ Lõpetasime README faile.
 
 - Kevin Kangur:	 Teen järgmine kord kõike paremini. :-)	
 
-- Henry: 	In the project I had my first real group git experience and, I'll make sure to apply all of what I've learnt in future projects as well
+- Henry: 	Selles projektis  sain ma enda esimese päris git'i kogemuse, panen ka kõik selles projektis õpitu tulevastes projektides käiku.
 
 - Kevin Zukker:	Teen järgmine kord kõike paremini. :-)	
 
 **Üks pehme oskus, mida õppisin ja endas arendasin**
 - Aavik: Õppisin tiimi paremini juhtima ja teisi abistama/ise abi küsima
 
-- Jan: During this project I improved my teamwork skills.
+- Jan: Arendasin enda tiimitöö oskuseid.
 
-- Raimond: In this project I improved my skills on teamwork.	 
+- Raimond: Arendasin enda tiimitöö oskuseid. 
 
 - Sander-Aleks:	 Arendasin tiimitööd ja kuidas paremini kasutada githubi	
 
-- Kevin Kangur:	 	I improved my teamwork ability.
+- Kevin Kangur:	 	Arendasin enda tiimitöö oskuseid.
 
-- Henry:	I learned how to work as a team on a project.
+- Henry:	Õppisin kuidas tiimina projekti kallal tööd teha.
 
 - Kevin Zukker:	Arendasin tiimitööd
 
 **Üks tehniline oskus, mida õppisin ja endas arendasin**
 - Aavik: Õppisin GitHubis README failidega seotud asjade kohta palju ja sain ka Zone'i osas targemaks 
 
-- Jan:  Improved my Figma, HTML and CSS skills
+- Jan:  Täiendasin enda Figma, HTML ja CSS oskuseid.
 
-- Raimond: Improved Figma, Readme and Github.	 
+- Raimond: Täiendasin Figma, Readme ja Github'i.	 
 
 - Sander-Aleks:	 Õppisin paremini kasutama javascripti ja kuidas paremini kasutada githubi.
 
-- Kevin Kangur:	 	I learned how to use Figma a bit and improved on my HTML and CSS skills. 
+- Kevin Kangur:	 	Õppisin kuidas kasutada pisut Figma't ja täiendasin enda HTML ja CSS oskuseid.
 
-- Henry:	 I learned more about HTML and CSS and quite a bit more about Github. 
+- Henry:	 Õppisin rohken HTML ja CSS'i kohta, sain ka rohkesti uusi teadmisi GitHub'i kohta.
 
 - Kevin Zukker:	Õppisin paremini kasutama githubi ja figmat.
