@@ -39,7 +39,7 @@ Started designing in Figma and started to write the code.
 
 Started to put the plan together
 -----------------------------------------------------------------
-Päeva              tegemised
+Our              doings
 :--------------------------------------------------:
 ![image](https://user-images.githubusercontent.com/91154227/199925447-c785cd37-8d2a-4e82-ac88-da7b49cdb60f.jpg)
 
@@ -50,7 +50,7 @@ Päeva              tegemised
 ## Day 2
 Improving our code and Figma design
 -----------------------------------------------------------------
-Päeva              tegemised
+Our              doings
 :--------------------------------------------------:
 ![image](https://user-images.githubusercontent.com/113008169/199742963-ec59a05b-598d-45b8-9ae1-13ca2331ee40.png) ![image](https://user-images.githubusercontent.com/113008169/199743004-c318f370-c8ff-4e54-8f82-50ecdd6da6b5.png)
 
@@ -66,7 +66,7 @@ Finishing the README file.
 
 
 ## Questions 
-**Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
+**How will you apply what you've learnt in future projects?**
 - Aavik:	 In the next project, I'll try to be a better leader and team member. I'll keep a closer eye on things that we still need to do.
 
 - Jan: I'll try to do everything a little better when the next project comes along. :-)
@@ -81,32 +81,32 @@ Finishing the README file.
 
 - Kevin Zukker:	I'll try to do everything a little better when the next project comes along. :-)
 
-**Üks pehme oskus, mida õppisin ja endas arendasin**
-- Aavik: I improved my team leading skills and figured that it's okay to ask for help when it's needed
+**One soft skill**
+- Aavik: I improved my team leading skills and figured that it's okay to ask for help when it's needed.
 
 - Jan: During this project I improved my teamwork skills.
 
 - Raimond: In this project I improved my skills on teamwork.	 
 
-- Sander-Aleks:	 Arendasin tiimitööd ja kuidas paremini kasutada githubi	
+- Sander-Aleks:	 Improved teamwork. :-) 
 
 - Kevin Kangur:	 	I improved my teamwork ability.
 
 - Henry:	I learned how to work as a team on a project.
 
-- Kevin Zukker:	Arendasin tiimitööd
+- Kevin Zukker:	Improved my teamwork skills.
 
-**Üks tehniline oskus, mida õppisin ja endas arendasin**
-- Aavik: Õppisin GitHubis README failidega seotud asjade kohta palju ja sain ka Zone'i osas targemaks 
+**One hard skill**
+- Aavik: I learnt more abot about README files in GitHub and gained more information about site hosting in Zone
 
 - Jan:  Improved my Figma, HTML and CSS skills
 
 - Raimond: Improved Figma, Readme and Github.	 
 
-- Sander-Aleks:	 Õppisin paremini kasutama javascripti ja kuidas paremini kasutada githubi.
+- Sander-Aleks:	 I improved my javascript skills and learnt how to better use GitHub.
 
 - Kevin Kangur:	 	I learned how to use Figma a bit and improved on my HTML and CSS skills. 
 
 - Henry:	 I learned more about HTML and CSS and quite a bit more about Github. 
 
-- Kevin Zukker:	Õppisin paremini kasutama githubi ja figmat.
+- Kevin Zukker:	I learnt how to use GitHub and Figma.
