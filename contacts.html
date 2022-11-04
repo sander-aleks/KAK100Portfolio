@@ -14,22 +14,29 @@
 </head>
 
 <body>
-  <header>
-    <div class="continer">
-      <div class="logo"><a href="/"><img
-            src="https://ametikool.ee/sites/ametikool.ee/files/styles/hitsa_core_logo/public/kuressaare-ametikool-100-logo-02-02-04.png?itok=LckElaLm"
-            alt="logo"></a>
-      </div>
-      <div class="nav">
-        <ul>
-          <li class="nav1"><a href="/">Avaleht</a></li>
-          <li class="nav2"><a href="gallery.html">Galerii</a></li>
-          <li class="nav1"><a href="facts.html">Faktid</a></li>
-          <li class="nav2"><a href="contacts.html">Kontakt</a></li>
-        </ul>
-      </div>
-    </div>
-  </header>
+  <body>
+    <header>
+        <div class="continer">
+            <div class="logo"><a href="index.html"><img
+                        src="images/kuressaare-ametikool-100-logo-02-02-04.png"
+                        alt="logo"></a>
+            </div>
+            <nav class="navbar">
+                <ul class="nav-links">
+                    <input type="checkbox" id="checkbox_toggle">
+                    <label for="checkbox_toggle" class="burger">☰</label>
+                    <div class="nav">
+                        <ul>
+                            <li class="nav1"><a href="index.html">Avaleht</a></li>
+                            <li class="nav2"><a href="gallery.html">Galerii</a></li>
+                            <li class="nav1"><a href="facts.html">Faktid</a></li>
+                            <li class="nav2"><a href="contacts.html">Kontakt</a></li>
+                        </ul>
+                    </div>
+                </ul>
+            </nav>
+        </div>
+    </header>
 
   <section class="content">
     <div class="continer">
@@ -212,6 +219,7 @@
           </div>
         </div>
       </div>
+      <div class="GoogleMap" id="googleMap"></div>
     </div>
   </section>
 
@@ -219,8 +227,22 @@
     <div class="continer">Kuressaare Ametikool | Kohtu 22, Kuressaare 93812 | 452 4600 | <a
         href="mailto:info@ametikool.ee">info@ametikool.ee</a></div>
   </footer>
-
+  <script>
+    function myMap() {
+      const myLatLng = { lat: 58.25632, lng: 22.48234 };
+      var mapProp= {
+          center:new google.maps.LatLng(myLatLng),
+          zoom:15,
+      };
+      var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+      
+       new google.maps.Marker({
+          position: myLatLng,
+          map
+       })
+      }
+      </script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=&callback=myMap"></script>
   <script src="app.js"></script>
 </body>
-
 </html>
