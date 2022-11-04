@@ -20,7 +20,7 @@
 
 To introduce our school, Kuressaare Regional Training Centre.
 
-#Project tools
+# Project tools
 
 VsCode, Zone, Figma, Ubuntu
 
