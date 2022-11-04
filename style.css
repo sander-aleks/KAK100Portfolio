@@ -335,11 +335,11 @@ p {
 }
 
 .nav-links a {
-  color: #284977;
+  color: white;
 }
 
 .nav-links a:hover {
-  color: #EF7C00;
+  color: white;
 }
 
 input[type=checkbox] {
@@ -350,7 +350,7 @@ input[type=checkbox] {
   display: none;
 }
 
-@media screen and (max-width: 1020px) {
+@media screen and (max-width: 1040px) {
   .nav {
     display: none;
     position: absolute;
@@ -359,7 +359,8 @@ input[type=checkbox] {
     left: 0;
     text-align: center;
     padding: 1rem 0;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(40, 73, 120, 0.7);
+    border-radius: 20px;
   }
 
   input[type=checkbox]:checked~.nav {
@@ -380,11 +381,18 @@ input[type=checkbox] {
   .nav1,
   .nav2 {
     background: none;
-    color: #284978;
+    color: black;
     mix-blend-mode: normal;
     border: none;
     box-shadow: none;
     border-radius: none;
     padding: 0.5rem 1rem;
   }
+}
+
+.GoogleMap{
+  width:100%;
+  height:300px;
+  border-radius: 0.5rem;
+  box-shadow: 0rem 0.5rem 0.5rem rgb(0 0 0 / 30%);
 }
