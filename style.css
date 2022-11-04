@@ -225,7 +225,21 @@
   }
   
   .slides {
-    display: none;
+    display: inline-block;
+    position: relative;
+  }
+
+  .slides .slides--prev {
+    position: absolute;
+    top: 50%;
+    right: 95%;
+    z-index: 100;
+  }
+
+  .slides .slides--next {
+    position: absolute;
+    top: 50%;
+    left: 95%;
   }
   
   .slides--prev .slides--next {
@@ -246,22 +260,19 @@
   .slides--prev {
     cursor: pointer;
     color: #EF7C00;
+    font-size: 3rem;
   }
   
   .slides--next {
     cursor: pointer;
     right: 0;
     border-radius: 3px 0 0 3px;
-    color: #284978;
+    color: #EF7C00;
+    font-size: 3rem;
   }
   
   .slides--next:hover .slides--prev:hover {
     background-color: rgba(0, 0, 0, 0.8);
-  }
-  
-  .slides--arrows {
-    text-align: center;
-    font-size: 4rem;
   }
   
   .fade--numbers {
@@ -318,6 +329,22 @@
     .logo img {
       max-width: 260px;
     }
+
+    .slides .slides--prev {
+      top: 40%;
+      right: 90%;
+    }
+  
+    .slides .slides--next {
+      top: 40%;
+      left: 90%;
+    }
+    
+
+    .slides--dot {
+      height: 1.5rem;
+      width: 1.5rem;
+    }  
   
     .contact {
       display: block;
