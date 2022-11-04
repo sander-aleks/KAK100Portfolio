@@ -33,10 +33,10 @@ VsCode, Zone, Figma, Ubuntu
 
 ## Päev 1
 Tutvusime üksteisega.
-Panime plaani kokku.
 TAK-21 näitas meile TA-22 and TAK-22 kuidas githubi issued and labelid töötavad...
 Alustasime disanimist Figmas ja kodeerimist.
 
+Panime plaani kokku
 -----------------------------------------------------------------
 Päeva              tegemised
 :--------------------------------------------------:
@@ -48,8 +48,8 @@ Päeva              tegemised
 
 
 ## Päev 2
-Täiendasime koodi ja Figmat.
 
+Täiendasime koodi ja Figmat
 -----------------------------------------------------------------
 Päeva              tegemised
 :--------------------------------------------------:
