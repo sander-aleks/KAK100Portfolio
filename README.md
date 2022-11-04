@@ -37,6 +37,15 @@ Started to put the plan together.
 TAK-21 showed us TA-22 and TAK-22 how github issues and labels work...
 Started designing in Figma and started to write the code.
 
+-----------------------------------------------------------------
+Päeva              tegemised
+:--------------------------------------------------:
+![image](https://user-images.githubusercontent.com/91154227/199925447-c785cd37-8d2a-4e82-ac88-da7b49cdb60f.jpg)
+
+
+
+-------------------------------------------
+
 ## Day 2
 
 -----------------------------------------------------------------
@@ -56,29 +65,48 @@ Uploaded the site to Zone, creating a link for the page, fixing bugs and adding 
 Finishing the README file.
 
 
-# Team members comments
+## Questions 
+**Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?**
+- Aavik:	 Järgmises projektis olen parem tiimijuht ja tiimikaaslane, hoian rohkem silma peal asjadel, mis on vaja ära teha
 
-    Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
-        Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-        Üks pehme oskus, mida õppisin ja endas arendasin
-        Üks tehniline oskus, mida õppisin ja endas arendasin
+- Jan: Teen järgmine kord kõike paremini. :-)
 
+- Raimond: Teen järgmine kord kõike paremini. :-)	 
 
-## Jan
+- Sander-Aleks:	 Teen järgmine kord kõike paremini. :-)	
 
-## Aavik
-	Järgmises projektis olen parem tiimijuht ja tiimikaaslane, hoian rohkem silma peal asjadel, mis on vaja ära teha
-	
-	Õppisin tiimi paremini juhtima ja teisi abistama/ise abi küsima
-	
-	Õppisin GitHubis README failidega seotud asjade kohta palju ja sain ka Zone'i osas targemaks 
+- Kevin Kangur:	 Teen järgmine kord kõike paremini. :-)	
 
-## Raimond
+- Henry: 	In the project I had my first real group git experience and, I'll make sure to apply all of what I've learnt in future projects as well
 
-## Sander-Aleks
+- Kevin Zukker:	Teen järgmine kord kõike paremini. :-)	
 
-## Kevin Kangur
+**Üks pehme oskus, mida õppisin ja endas arendasin**
+- Aavik: Õppisin tiimi paremini juhtima ja teisi abistama/ise abi küsima
 
-## Henry
+- Jan: During this project I improved my teamwork skills.
 
-## Kevin Zukker
+- Raimond: In this project I improved my skills on teamwork.	 
+
+- Sander-Aleks:	 Arendasin tiimitööd ja kuidas paremini kasutada githubi	
+
+- Kevin Kangur:	 	I improved my teamwork ability.
+
+- Henry:	I learned how to work as a team on a project.
+
+- Kevin Zukker:	Arendasin tiimitööd
+
+**Üks tehniline oskus, mida õppisin ja endas arendasin**
+- Aavik: Õppisin GitHubis README failidega seotud asjade kohta palju ja sain ka Zone'i osas targemaks 
+
+- Jan:  Improved my Figma, HTML and CSS skills
+
+- Raimond: Improved Figma, Readme and Github.	 
+
+- Sander-Aleks:	 Õppisin paremini kasutama javascripti ja kuidas paremini kasutada githubi.
+
+- Kevin Kangur:	 	I learned how to use Figma a bit and improved on my HTML and CSS skills. 
+
+- Henry:	 I learned more about HTML and CSS and quite a bit more about Github. 
+
+- Kevin Zukker:	Õppisin paremini kasutama githubi ja figmat.
