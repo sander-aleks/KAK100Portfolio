@@ -30,6 +30,8 @@
   
   .logo img {
     max-width: 320px;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
   }
   
   .nav {
@@ -38,7 +40,7 @@
   
   .nav ul li {
     display: inline;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 500;
     margin: 0 0.5rem;
     text-transform: uppercase;
@@ -259,6 +261,7 @@
   
   .slides--arrows {
     text-align: center;
+    font-size: 4rem;
   }
   
   .fade--numbers {
@@ -279,8 +282,8 @@
   
   .slides--dot {
     cursor: pointer;
-    height: 15px;
-    width: 15px;
+    height: 2rem;
+    width: 2rem;
     margin: 0 2px;
     background-color: #EF7C00;
     border-radius: 50%;
@@ -350,7 +353,7 @@
     display: none;
   }
   
-  @media screen and (max-width: 1040px) {
+  @media screen and (max-width: 1020px) {
     .nav {
       display: none;
       position: absolute;
@@ -359,8 +362,9 @@
       left: 0;
       text-align: center;
       padding: 1rem 0;
-      background-color: rgba(40, 73, 120, 0.7);
-      border-radius: 20px;
+      background-color: rgba(40, 73, 120, 0.8);
+      border-radius: 0.5rem;
+      z-index: 1;
     }
   
     input[type=checkbox]:checked~.nav {
